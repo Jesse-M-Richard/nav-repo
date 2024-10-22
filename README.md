@@ -11,17 +11,24 @@ Gives a thirty-thousand-foot view of the breadth and scope of projects.
 
 <a href= '#'>Cloud</a>
 
-### Data Engineering, DataOps & MLOps
+### Data
 <a href= '#'>Data Engineering</a>
 
 <a href= '#'>DataOps</a>
 
+### Artificial Intelligence/Machine Learning
+<a href= '#'>AI</a>
+
+<a href= '#'>ML Engineering</a>
+
 <a href= '#'>MLOps</a>
 
-### Data Science and AI/ML
+### Data Science
 <a href= '#'>Data Science</a>
 
-<a href= '#'>AI/ML</a>
+<a href= '#'>Data Analytics</a>
+
+
 
 
 
