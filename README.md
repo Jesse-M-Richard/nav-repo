@@ -17,11 +17,11 @@ Gives a thirty-thousand-foot view of the breadth and scope of projects.
 <a href= '#'>DataOps</a>
 
 ### Artificial Intelligence/Machine Learning
-<a href= '#'>AI</a>
+<a href= '#'>AI/ML(Algorithms)</a>
 
-<a href= '#'>ML Engineering</a>
+<a href= '#'>AI/ML Engineering(Operationalizing)</a>
 
-<a href= '#'>MLOps</a>
+<a href= '#'>AI/MLOps</a>
 
 ### Data Science
 <a href= '#'>Data Science</a>
