@@ -13,26 +13,27 @@ Gives a thirty-thousand-foot view of the breadth and scope of projects.
 
 <a href= '#'>DevOps</a>
 
-<a href= '#'>DataOps</a>
-
-<a href= '#'>MLOps</a>
 
 ### Data
 <a href= '#'>Data Science</a>
 
 <a href= '#'>Data Analytics</a>
 
-<a href= '#'>Databases</a>
-
 <a href= '#'>Data Engineering</a>
+
+<a href= '#'>DataOps</a>
+
 
 ### AI/ML
 <a href= '#'>AI & ML</a>
 
 <a href= '#'>ML Engineering</a>
 
+<a href= '#'>MLOps</a>
+
+
 ### Embedded Systems
-<a href= '#'>IoT Engineering</a>
+<a href= '#'>IoT</a>
 
 <a href= '#'>FPGA</a>
 
