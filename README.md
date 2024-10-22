@@ -31,10 +31,17 @@ Gives a thirty-thousand-foot view of the breadth and scope of projects.
 
 <a href= '#'>ML Engineering</a>
 
-### IoT
+### Embedded Systems
 <a href= '#'>IoT Engineering</a>
 
+<a href= '#'>FPGA</a>
 
+### Informatics
+<a href= '#'>Algorithms</a>
+
+<a href= '#'>Data Structures</a>
+
+<a href= '#'>Quantum Computing</a>
 
 
 
