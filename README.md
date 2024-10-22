@@ -6,27 +6,36 @@ The projects are grouped into specific domains.
 
 Gives a thirty-thousand-foot view of the breadth and scope of projects.
 
-### DevOps & Cloud (Infrastructure)
-<a href= '#'>DevOps</a>
+### Ops (Infrastructure)
+<a href= '#'>Networking</a>
 
 <a href= '#'>Cloud</a>
 
-### Data
-<a href= '#'>Data Engineering</a>
+<a href= '#'>DevOps</a>
 
 <a href= '#'>DataOps</a>
 
-### Artificial Intelligence/Machine Learning
-<a href= '#'>AI/ML(Algorithms)</a>
+<a href= '#'>MLOps</a>
 
-<a href= '#'>AI/ML Engineering(Operationalizing)</a>
+<a href= '#'>IoTOps</a>
 
-<a href= '#'>AI/MLOps</a>
-
-### Data Science
+### Data
 <a href= '#'>Data Science</a>
 
 <a href= '#'>Data Analytics</a>
+
+<a href= '#'>Databases</a>
+
+<a href= '#'>Data Engineering</a>
+
+### AI/ML
+<a href= '#'>AI & ML</a>
+
+<a href= '#'>ML Engineering</a>
+
+### IoT
+<a href= '#'>IoT Engineering</a>
+
 
 
 
