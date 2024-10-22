@@ -17,8 +17,6 @@ Gives a thirty-thousand-foot view of the breadth and scope of projects.
 
 <a href= '#'>MLOps</a>
 
-<a href= '#'>IoTOps</a>
-
 ### Data
 <a href= '#'>Data Science</a>
 
