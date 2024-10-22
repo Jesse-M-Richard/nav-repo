@@ -6,6 +6,6 @@ The projects are grouped into specific domains.
 
 Gives a thirty-thousand-foot view of the breadth and scope of projects.
 
-<a href= '#'>DevOps</a?
+<a href= '#'>DevOps</a>
 
 
