@@ -6,7 +6,7 @@ The projects are grouped into specific domains.
 
 Gives a thirty-thousand-foot view of the breadth and scope of projects.
 
-### Ops (Infrastructure)
+### Infrastructure
 <a href= '#'>Networking</a>
 
 <a href= '#'>Cloud</a>
